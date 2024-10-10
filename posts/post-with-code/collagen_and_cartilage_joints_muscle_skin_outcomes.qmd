@@ -39,6 +39,8 @@ Let’s dive in, in no particular order I’ll be going over higher level meta a
     -   They keep stacking people from the same study multiple times into the same forest plot. Wtf why??? Just make different subgroup analyses! THIS MAKES THE EFFECT MEASURE UNINTERPRETABLE. Not that SMD in this context wasn’t borderline uninterpretable from the start. Case in point:\
         ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdzu1psHdJ-ZmhUVlGLicmfV0dyoLOZ3GcUv-fS2wLjwPWCseWfOWopPLmcMGYeXZ9VCEfvStArcb-jou0_3SqMgXXrDWzVCiSZNVoD3NYI7g13Qq7884w7C0cL1wsAHm-tdtmxb7ZrGKsYRFlSwy_0QMBY?key=rf44RV7tAsqSBFC_Mo--og)
 
+-   
+
 \- ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXd2IOP3dffygozuhiOkMJUnEpPkcrosPwFuqBfgn6h2TvS33gU4ri8gr-X1PIJCeehJU9nZJlJXNyc2vN3QOfFZI9o05mzeRY4wtRwG_7k652o64fu3DalIE01pXokm8a60tQjjfQleUeerMHqTv9E0xd7j?key=rf44RV7tAsqSBFC_Mo--og)
 
 # The literal definition of what not to do with a forest plot. Why even put different lifts with each other in the same forest plot when you could make another one? This entire paper is best ignored. 
