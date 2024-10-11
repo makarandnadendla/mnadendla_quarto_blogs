@@ -26,7 +26,7 @@ Let’s dive in, in no particular order I’ll be going over higher level meta a
 
 ## Systematic Reviews and Meta Analysis
 
--   [2024 Meta Analysis/Systematic REview looking at a variety of outcome](https://link.springer.com/article/10.1007/s40279-024-02079-0)s
+-   [2024 Meta Analysis/Systematic REview looking at a variety of outcome](https://link.springer.com/article/10.1007/s40279-024-02079-0)
 
     -   “investigate the effects of long-term daily collagen peptide (CP) supplementation on strength, musculotendinous adaptation, functional recovery, and body composition in healthy adults”
 
