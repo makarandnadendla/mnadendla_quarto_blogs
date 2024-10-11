@@ -8,7 +8,13 @@ categories: [news, code, analysis]
 image: "image.jpg"
 ---
 
-### I wanted to start this document off by noting that I could not find a SINGLE trial on collagen and airway cartilage outcomes. Not surprising, since you would probably need a long term cohort to evaluate this and you would need to account for a lot of variables for the adjustment set. So I tried to stick to things like skin, joint, and cartilage health outcomes in other places that I could find it. There are a few things that I think are essential for evaluating supplementary collagen, so I’ll list them out below:
+# My Foray into the World of Collagen
+
+What prompted me, a vegan, to go into the science over collagen? I obviously don't see a close future where I would be consuming it, and certainly like many supplements it probably only contributes to a small part of our health.
+
+But social media would have you believe otherwise, and collagen is highly touted for anything from joint health to skin health and basically everything in between involving a connective tissue. It all came to a head when doctors started recommending I consume it too, so I wanted to see if there were robustly shown benefits, and whether I would be able to obtain most of the benefit without necessarily having to consume collagen itself. \
+\
+Going in, I had a few important considerations for any trial evaluating collagen that I would like to see fulfilled:
 
 1.  Assessment and control for protein intake at baseline, throughout the study, and between groups (especially in older adults). In particular and if possible, ensuring an slightly higher protein intake of at least 1.2g/kg lean mass in an isonitrogenic fashion between both arms. This one should be obvious since collagen obviously contributes to our amino acid pool when it’s digested, as well as the generally well known implications on increasing total protein intake for skin, bone, muscle, and connective tissue health especially in older adults. 
 
