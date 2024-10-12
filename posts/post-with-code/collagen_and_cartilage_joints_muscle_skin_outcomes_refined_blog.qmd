@@ -10,23 +10,28 @@ image: "image.jpg"
 
 # My Foray into the World of Collagen
 
-What prompted me, a vegan, to go into the science over collagen? I obviously don't see a close future where I would be consuming it, and certainly like many supplements it probably only contributes to a small part of our health.
-
-But social media would have you believe otherwise, and collagen is highly touted for anything from joint health to skin health and basically everything in between involving a connective tissue. It all came to a head when doctors started recommending I consume it too, so I wanted to see if there were robustly shown benefits, and whether I would be able to obtain most of the benefit without necessarily having to consume collagen itself. \
+I have to admit. something.\
 \
-Going in, I had a few important considerations for any trial evaluating collagen that I would like to see fulfilled:
+Before doing the research for this article, I wasn't expecting to foray into the world of collagen much. As something which I wouldn't be really consuming until cultivated versions go on sale, I reserved it for something I really concern myself with. In fact, all the claims made by people online about collagen and skin had the thick musk of "just another untested supplement." \
+\
+Collagen seems to be highly touted for anything from joint health to skin health and basically everything in between involving a connective tissue. It all came to a head when a couple of different doctors started recommending I consume it too, so I challenged them to show me evidence. I also told them I would look into the issue personally as well to make this a collaborative effort, and I started digging.\
+\
+But before that, I had a few important considerations for any trial evaluating collagen that I wanted to see fulfilled:
 
-1.  Assessment and control for protein intake at baseline, throughout the study, and between groups (especially in older adults). In particular and if possible, ensuring an slightly higher protein intake of at least 1.2g/kg lean mass in an isonitrogenic fashion between both arms. This one should be obvious since collagen obviously contributes to our amino acid pool when it’s digested, as well as the generally well known implications on increasing total protein intake for skin, bone, muscle, and connective tissue health especially in older adults. 
+1.  Assessment and control for protein intake at baseline for all groups (especially in older adults). You would get many bonus points if you ensured an slightly higher protein intake of at least 1.2g/kg lean mass in an isonitrogenic fashion between both arms. Given that collagen obviously contributes to our amino acid pool when it’s digested, and the generally well known benefits on sufficient total protein intake for bone, muscle, and connective tissue health, this seemed like a very important consideration. 
 
-2.  Consistent dosages of the same molecules and consistent length of supplementation. Again, this one should be obvious, we want to be clear about what the estimand is.
+2.  Consistent dosages of the same molecules and consistent length of supplementation. This allows for a better understanding of what dose, collagen type, and exposure time length we can have benefits from if they are to be had.
 
-3.  Either the collagen is a standalone intervention and compared to a placebo that’s PROTEIN MATCHED,\
-    \
-    OR have the treatment assignments be something like 
+3.  Either the collagen is a standalone intervention and compared to a placebo that’s isonitrogenic, or have the treatment assignments be something like 
 
-Treatment: Hydrolyzed Collagen + Hyaluronic Acid + Glucosamine + Condroiton
+| Treatment            | Control         |
+|----------------------|-----------------|
+| Hydrolyzed Collagen  | Hyaluronic Acid |
+| Hyaluronic Acid      | Glucosamine     |
+| Glucosamine          | Condroiton      |
+| Condroiton           |                 |
 
-Control: Hyaluronic Acid + Condroitin + Glucosamine + Isonitrogenic Protein Supp
+Where the only difference between treatment and control is the collagen supplement.
 
 Let’s dive in, in no particular order I’ll be going over higher level meta analyses and systemic reviews and working my way down into commenting on individual trials.
 
@@ -34,7 +39,7 @@ Let’s dive in, in no particular order I’ll be going over higher level meta a
 
 -   [2024 Meta Analysis/Systematic REview looking at a variety of outcome](https://link.springer.com/article/10.1007/s40279-024-02079-0)
 
-    -   “investigate the effects of long-term daily collagen peptide (CP) supplementation on strength, musculotendinous adaptation, functional recovery, and body composition in healthy adults”
+    -   “Aims to investigate the effects of long-term daily collagen peptide (CP) supplementation on strength, musculotendinous adaptation, functional recovery, and body composition in healthy adults”
 
     -   The meta analysis authors used Standardized Mean Difference as the outcome measure. I maintain that most meta analyses nowadays shouldn’t be using it unless they can give a clear definition of the underlying construct that they’re trying to measure. The definition of the estimand for the meta analyses, is what leads to clear definitions of the construct used for the SMD. it’s a vital part of the process that most meta analyses using SMD don’t seem to do for whatever reason. SMD has almost no proper use case for a meta analysis these days and should only be used by a very very very experienced practitioner
 
@@ -42,14 +47,14 @@ Let’s dive in, in no particular order I’ll be going over higher level meta a
 
     -   If I’m not mistaken, literally only one trial provided a protein matched placebo. Only ONE!!!!! The rest were some combination of maltodextrin, dextrose, or some random white powder that mixes similar to collagen in water.
 
-    -   They keep stacking people from the same study multiple times into the same forest plot. Wtf why??? Just make different subgroup analyses! THIS MAKES THE EFFECT MEASURE UNINTERPRETABLE. Not that SMD in this context wasn’t borderline uninterpretable from the start. Case in point:\
-        ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdzu1psHdJ-ZmhUVlGLicmfV0dyoLOZ3GcUv-fS2wLjwPWCseWfOWopPLmcMGYeXZ9VCEfvStArcb-jou0_3SqMgXXrDWzVCiSZNVoD3NYI7g13Qq7884w7C0cL1wsAHm-tdtmxb7ZrGKsYRFlSwy_0QMBY?key=rf44RV7tAsqSBFC_Mo--og)
+    -   They keep stacking people from the same study multiple times into the same forest plot. Wtf why??? Just make different subgroup analyses! THIS MAKES THE EFFECT MEASURE UNINTERPRETABLE. Not that SMD in this context wasn’t borderline uninterpretable from the start. Case in point:
 
--   
+        \
+        ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdzu1psHdJ-ZmhUVlGLicmfV0dyoLOZ3GcUv-fS2wLjwPWCseWfOWopPLmcMGYeXZ9VCEfvStArcb-jou0_3SqMgXXrDWzVCiSZNVoD3NYI7g13Qq7884w7C0cL1wsAHm-tdtmxb7ZrGKsYRFlSwy_0QMBY?key=rf44RV7tAsqSBFC_Mo--og)
 
 \- ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXd2IOP3dffygozuhiOkMJUnEpPkcrosPwFuqBfgn6h2TvS33gU4ri8gr-X1PIJCeehJU9nZJlJXNyc2vN3QOfFZI9o05mzeRY4wtRwG_7k652o64fu3DalIE01pXokm8a60tQjjfQleUeerMHqTv9E0xd7j?key=rf44RV7tAsqSBFC_Mo--og)
 
-# The literal definition of what not to do with a forest plot. Why even put different lifts with each other in the same forest plot when you could make another one? This entire paper is best ignored. 
+### The literal definition of what not to do with a forest plot. Why even put different lifts with each other in the same forest plot when you could make another one? This entire paper is best ignored. 
 
 -   [Found a letter to the editor from a statistician on a supplemental collagen meta analysis done for osteoarthritis outcomes (using the VAS as the main outcome)](https://link.springer.com/epdf/10.1007/s00264-021-05239-3?sharing_token=nZQH2bjn8aRXz2kjvgXdSPe4RwlQNchNByi7wbcMAY7YkNDWBxBnTEnalNaIMriEIQ-pN-PQiuDpXtYmMoYH80QT-utrlaH0mkJ8Ts3rC6AtDefWZTW_Gc17Eim_ydFe6GmJySmqrGTOQU5TgvYTB_OBtiQzd_lnhpMUbs9HeOM%3D) 
 
@@ -59,13 +64,11 @@ Let’s dive in, in no particular order I’ll be going over higher level meta a
 
     -   He notes problems in this meta analysis around inconsistent dosage, effect sizes, possible publication bias,length of usage and actual clinical significance which are all very very fair criticisms and ones I agree with. This is unfortunately a theme we’ll see going throughout today….. 
 
-<!-- -->
+    We do happen to have a couple of Systematic Reviews on the topic of supplementary collagen for cartilages, joints and muscles! Great!! Let’s read further…..
 
--   A couple of Systematic reviews on the topic of supplementary collagen for cartilages, joints and muscles! YAY!!!! Let’s read further…..
+    [Role of Collagen Derivatives in Osteoarthritis and Cartilage Repair: A Systematic Scoping Review With Evidence Mapping](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7695755/)
 
-    -   [Role of Collagen Derivatives in Osteoarthritis and Cartilage Repair: A Systematic Scoping Review With Evidence Mapping](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7695755/)
-
-    -   Oh dear god these didn't list baseline protein intakes of people in the study in the review (making me have to go through each trial to find if they did) 
+    -   Oh dear god, these didn't list baseline protein intakes of people in the study in the review (making me have to go through each trial to find if they did) 
 
         -   Therefore I hate my life and these researchers I hate even more 
 
@@ -73,33 +76,33 @@ Let’s dive in, in no particular order I’ll be going over higher level meta a
 
         -   Also for some reason smaller studies seem to consistently show higher effect sizes  than larger ones
 
-        -   Let’s dive into some of these studies individually on the next page…..
+    Let’s dive into some of these studies individually on the next page…..
 
-    -   <div>
+    [The effects of collagen peptide supplementation on body composition, collagen synthesis, and recovery from joint injury and exercise: a systematic review](https://link.springer.com/article/10.1007/s00726-021-03072-x)
 
-        # [The effects of collagen peptide supplementation on body composition, collagen synthesis, and recovery from joint injury and exercise: a systematic review](https://link.springer.com/article/10.1007/s00726-021-03072-x)
+    <div>
 
-        -   Only two studies had a placebo that matched total protein in the placebo. Again…..why????????????????????????????????
+    -   Only two studies had a placebo that matched total protein in the placebo. Again…..why would you do something like this?
 
-            -   And both of those that did have a comparable protein placebo they measured the surrogate outcome MPS, instead of hard outcomes like body composition or joint pain, cartilage size/thickness, etc. So….not really interesting or useful \*sigh\*
+        -   And both of those that did have a comparable protein placebo they measured the surrogate outcome MPS, instead of hard outcomes like body composition or joint pain, cartilage size/thickness, etc. So….not really interesting or useful \*sigh\*
 
-            -   Do I even want to bother with looking at the randomization + power analyses for both of these….I know I’m not going to be happy at a glance. Let’s spare myself the mental burden
+        -   Do I even want to bother with looking at the randomization + power analyses for both of these….I know I’m not going to be happy at a glance. Let’s spare myself the mental burden
 
-        -   Here’s a trial from where it’s unclear whether the difference in VAS is clinically significant (\< 10): <https://cdnsciencepub.com/doi/10.1139/apnm-2016-0390>
+    -   Here’s a trial from where it’s unclear whether the difference in VAS is clinically significant (\< 10): <https://cdnsciencepub.com/doi/10.1139/apnm-2016-0390>
 
-            -   Again, no assessment of baseline protein intake nor were the treatment and control protein matched. So………..we move on
+        -   Again, no assessment of baseline protein intake nor were the treatment and control protein matched. So………..we move on
 
-        </div>
+    </div>
 
-[Effects of Oral Collagen on Skin Aging Parameters](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10180699/)
+    [Effects of Oral Collagen on Skin Aging Parameters](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10180699/)
 
--   \*Sigh\* Yet another meta analysis that used SMD improperly. They did have a meta analyst specialist on this meta so they did a good job with many things, but still have to ding points for SMD.
+    -   \*Sigh\* Yet another meta analysis that used SMD improperly. They did have a meta analyst specialist on this meta so they did a good job with many things, but still have to ding points for SMD.
 
--   The forest plots at least do a good job of separating time points and other things into relevant subgroup analyses. Though I think they probably fiddled around too much and need to limit the scope of their analysis….but that’s probably a more mild criticism in today’s climate of meta analyses \*sigh\*
+    -   The forest plots at least do a good job of separating time points and other things into relevant subgroup analyses. Though I think they probably fiddled around too much and need to limit the scope of their analysis….but that’s probably a more mild criticism in today’s climate of meta analyses \*sigh\*
 
--   Important to note that this meta was mainly in older woman between 35 - 60 years of age.
+    -   Important to note that this meta was mainly in older woman between 35 - 60 years of age.
 
--   On the forest plot’s face value, it seems collagen is pretty consistently positive associated with most skin aging metrics here. That said when the metric is SMD it’s hard to interpret what the outcome even means. It gets worse….
+    -   On the forest plot’s face value, it seems collagen is pretty consistently positive associated with most skin aging metrics here. That said when the metric is SMD it’s hard to interpret what the outcome even means. It gets worse….
 
 -   ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfeRmLAtTSFkBLwKvx6h4KRhq-A7fcIrbZVgdUAnuo30VWvjrxw-l_PpWjGd5cNKKM_Y_dpAryblqRCqb8p1Iyyzz2g7MGyCHgGj9hyTO0L5MCM9HVzCzYZW2_56hYQMwMW0U6ZOknlv5rfDKWiG6xpSu9B?key=rf44RV7tAsqSBFC_Mo--og)
 
@@ -140,9 +143,7 @@ Let’s dive in, in no particular order I’ll be going over higher level meta a
 -   No assessment for protein intake at baseline nor a protein matched placebo\
     ye bhagavan why do I even bother 
 
-[Effect of the Novel Low Molecular Weight Hydrolyzed Chicken\
-Sternal Cartilage Extract, BioCell Collagen, on Improving\
-Osteoarthritis-Related Symptoms: A Randomized,Double-Blind,Placebo-Controlled Trial ](https://pubs.acs.org/doi/10.1021/jf205295u)
+[Effect of the Novel Low Molecular Weight Hydrolyzed Chicken Sternal Cartilage Extract, BioCell Collagen, on Improving Osteoarthritis-Related Symptoms: A Randomized,Double-Blind,Placebo-Controlled Trial ](https://pubs.acs.org/doi/10.1021/jf205295u)
 
 -   Literally nothing on power analysis (big big red flag)
 
@@ -152,9 +153,7 @@ Osteoarthritis-Related Symptoms: A Randomized,Double-Blind,Placebo-Controlled Tr
 
 -   Let’s move on this trial is a waste of my time and headspace already there’s nothing of value here
 
-This Ecuadorian study may be best so far because they measured a proxy for protein intake = meat intake and included this in the analysis in some form
-
--   [A randomized controlled trial on the efficacy and safety of a food ingredient, collagen hydrolysate, for improving joint comfort](https://www.tandfonline.com/doi/full/10.1080/09637480802498820)
+[This Ecuadorian study may be best so far because they measured a proxy for protein intake and included this in the analysis in some form.](https://www.tandfonline.com/doi/full/10.1080/09637480802498820)
 
 -   Proper description of some aspects of their power analysis (\*victory dance\*)
 
@@ -183,7 +182,7 @@ This Ecuadorian study may be best so far because they measured a proxy for prote
 
     -   Seriously again these researchers are a joke and deserve to be publicly stoned (obviously I’m kidding don’t report me)
 
-    -   Once again.....didn’t assess baseline protein intake nor is the placebo protein matched. Another completely fatal flaw\
+-   Once again.....didn’t assess baseline protein intake nor is the placebo protein matched. Another completely fatal flaw\
 
 # My Final Conclusions on the Topic
 

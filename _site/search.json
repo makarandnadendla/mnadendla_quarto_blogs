@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/post-with-code/collagen_and_cartilage_joints_muscle_skin_outcomes.html",
+    "href": "posts/post-with-code/collagen_and_cartilage_joints_muscle_skin_outcomes.html",
+    "title": "Collagen and Cartilage/Joints/Muscle/Skin Outcomes",
+    "section": "",
+    "text": "Assessment and control for protein intake at baseline, throughout the study, and between groups (especially in older adults). In particular and if possible, ensuring an slightly higher protein intake of at least 1.2g/kg lean mass in an isonitrogenic fashion between both arms. This one should be obvious since collagen obviously contributes to our amino acid pool when it’s digested, as well as the generally well known implications on increasing total protein intake for skin, bone, muscle, and connective tissue health especially in older adults. \nConsistent dosages of the same molecules and consistent length of supplementation. Again, this one should be obvious, we want to be clear about what the estimand is.\nEither the collagen is a standalone intervention and compared to a placebo that’s PROTEIN MATCHED,\n\nOR have the treatment assignments be something like \n\nTreatment: Hydrolyzed Collagen + Hyaluronic Acid + Glucosamine + Condroiton\nControl: Hyaluronic Acid + Condroitin + Glucosamine + Isonitrogenic Protein Supp\nLet’s dive in, in no particular order I’ll be going over higher level meta analyses and systemic reviews and working my way down into commenting on individual trials."
+  },
+  {
+    "objectID": "posts/post-with-code/collagen_and_cartilage_joints_muscle_skin_outcomes.html#systematic-reviews-and-meta-analysis",
+    "href": "posts/post-with-code/collagen_and_cartilage_joints_muscle_skin_outcomes.html#systematic-reviews-and-meta-analysis",
+    "title": "Collagen and Cartilage/Joints/Muscle/Skin Outcomes",
+    "section": "Systematic Reviews and Meta Analysis",
+    "text": "Systematic Reviews and Meta Analysis\n\n2024 Meta Analysis/Systematic REview looking at a variety of outcomes\n\n“investigate the effects of long-term daily collagen peptide (CP) supplementation on strength, musculotendinous adaptation, functional recovery, and body composition in healthy adults”\nThey used Standardized Mean Difference as the outcome measure. I maintain that most meta analyses nowadays shouldn’t be using it unless they can give a clear definition of the underlying construct that they’re trying to measure. The definition of the estimand for the meta analyses, is what leads to clear definitions of the construct used for the SMD. it’s a vital part of the process that most meta analyses using SMD don’t seem to do for whatever reason. SMD has almost no proper use case for a meta analysis these days and should only be used by a very very very experienced practitioner\nWhy is the second criteria of the meta analyses inclusion criteria that “they used different forms of DC (dietary collagen)”? If they simply mean using a variety of collagen molecules but in similar proportions and dosages across studies, I have no problem. But I’m not sure based on the wording here.(To be fair, many of the trials stuck to 15g daily DC supplementation). \nIf I’m not mistaken, literally only one trial provided a protein matched placebo. Only ONE!!!!! The rest were some combination of maltodextrin, dextrose, or some random white powder that mixes similar to collagen in water.\nThey keep stacking people from the same study multiple times into the same forest plot. Wtf why??? Just make different subgroup analyses! THIS MAKES THE EFFECT MEASURE UNINTERPRETABLE. Not that SMD in this context wasn’t borderline uninterpretable from the start. Case in point:\n\n\n\n-"
+  },
+  {
+    "objectID": "posts/post-with-code/collagen_and_cartilage_joints_muscle_skin_outcomes.html#a-look-at-individual-studies-from-the-systematic-reviews-above",
+    "href": "posts/post-with-code/collagen_and_cartilage_joints_muscle_skin_outcomes.html#a-look-at-individual-studies-from-the-systematic-reviews-above",
+    "title": "Collagen and Cartilage/Joints/Muscle/Skin Outcomes",
+    "section": "A look at Individual Studies from the Systematic Reviews Above",
+    "text": "A look at Individual Studies from the Systematic Reviews Above\nWhey protein vs leucine matched collagen protein RCT\n\nThis is a paper from the above muscle health meta, but SciHub doesn’t have access unfortunately :(. If I’m to believe just their results without looking at the methods then at least for muscle size whey protein does better than leucine matched collagen. Though I’m sure I’d have problems with this trial if I actually read it hahahaha\n\nSkin Health + Elasticity with a (collagen + hyaluronic acid +other molecules) supplement l\n\n120 participants randomized between each group, randomization method most likely simple given the website tool cited even though they said they randomized the patients “on the basis of the following characteristics: age, sex, BMI, ethnic background (mainly Caucasian),smoking habits, alcohol intake, nutritional level, and skin type assessed using Fitzpatrick scale”. Which… would imply stratified sampling???? But the randomization website tool they used didn’t allow for stratified sampling lol this is a red flag for the competence of these researchers\nEveryone was blinded till end of study\nNot clear they powered for their what was most likely post-hoc subgroup comparisons of older adults for joints. they took like 18 out of 34 people in the older age group who scored high on a joint pain assessment and looked at their outcomes. Common mistake here\nNo assessment for protein intake at baseline nor a protein matched placebo\nye bhagavan why do I even bother \n\nEffect of the Novel Low Molecular Weight Hydrolyzed Chicken\nSternal Cartilage Extract, BioCell Collagen, on Improving\nOsteoarthritis-Related Symptoms: A Randomized,Double-Blind,Placebo-Controlled Trial \n\nLiterally nothing on power analysis (big big red flag)\nNo assessment of baseline protein intake, AGAIN. It’s like they’re all trying to prove me right with how incompetent they are. \nSame bullshit that didn’t assess collagen by itself but with Hyaluronic Acid and chondroitin in conjunction compared to a placebo with nothing in it (not protein matched)\nLet’s move on this trial is a waste of my time and headspace already there’s nothing of value here\n\nThis Ecuadorian study may be best so far because they measured a proxy for protein intake = meat intake and included this in the analysis in some form\n\nA randomized controlled trial on the efficacy and safety of a food ingredient, collagen hydrolysate, for improving joint comfort\nProper description of some aspects of their power analysis (*victory dance*)\nSome aspects of randomization described (*victory dance*)\nHigher sample size than others\nThey used change scores instead of using the standard ANCOVA and adjusting for baseline, which is generally the best statistical approach for this (so get dinged slightly some points for that)\nDid a subgroup for high meat intake to account for effects in people with higher dietary collagen (over 1549 grams of meat per week versus under 1549 grams of meat per week, which if we assume is lean ground beef 1549 grams averaged over the week amounts to around ~55g protein per day and somewhere between 5-20g collagen per day)\nWhy do these people keep dichotomizing continuous variables sigh clinicians please stop dichotomizing continuous variables in your research you’re throwing valuable information away for no good reason. There are ways to make use of the information kept when it remains continuous\nThe higher meat intake group is supposed to measure dietary collagen intake and how much that contributes to the outcome, but that will also track with total protein intake for obvious reasons \nIf this is the best study I’ve found I don’t have much faith in humanity anymore\nIs the following difference for VAS even clinically significant? Look how attenuated the difference is with the higher meat group\n\nAnother Chinese study looking at collagen hydrosalate\n\nPower Anaylsis consists of this sentence:\n“This effect size assures, at a significance level of a=0.05, a power of 90% for WOMAC score, and of more than 80% for Lysholm score”. Without sharing what “this effect size” meant. \n\nWho’s the genius that came up with this masterful power analysis????? (I hope the sarcasm is dripping through) \nSeriously again these researchers are a joke and deserve to be publicly stoned (obviously I’m kidding don’t report me)\nOnce again…..didn’t assess baseline protein intake nor is the placebo protein matched. Another completely fatal flaw"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Makarand Nadendla: Stats God",
+    "section": "",
+    "text": "Collagen and Cartilage/Joints/Muscle/Skin Outcomes\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nOct 10, 2024\n\n\nMakarand Nadendla\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nOct 10, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nOct 7, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  }
+]
