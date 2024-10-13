@@ -15,4 +15,4 @@ about:
       href: https://github.com/makarandnadendla/
 ---
 
-About this blog
+Join me as I muse about statistical and causal inference in modern AI/ML, as well as medical and nutritional epidemiology.
