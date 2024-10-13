@@ -1,5 +1,5 @@
 ---
-title: "Collagen and Cartilage/Joints/Muscle/Skin Outcomes"
+title: "Collagen Outcomes on Cartilage, Joints, Muscle, and Skin Outcomes"
 author: "Makarand Nadendla"
 format: html
 editor: visual
@@ -18,7 +18,7 @@ From joint health to skin health and basically everything in between involving a
 
 When a couple of different doctors started recommending I consume it too, I was surprised it had made its way into the doctor's office. So, I challenged them to show me evidence. And though I still felt quite indifferent, it pushed me just enough in the direction of me doing my own searching, since if I was able to give nuanced takes on collagen and share them with those clinicians, it could directly impact other patient care as well for the better.\
 \
-And so the journey began. \
+And so the journey began.\
 \
 Going in, I had a few important considerations for any trial evaluating collagen that I wanted to see fulfilled:
 
@@ -39,7 +39,7 @@ Where the only difference between treatment and control is the collagen suppleme
 
 With those ground rules set, I'd like to present my synthesis on collagen's outcome data for various endpoints. In no particular order I’ll be going over higher level meta analyses and systemic reviews and working my way down into commenting on individual trials cited in these reviews.
 
-## Systematic Reviews and Meta Analysis
+# A look into the Systematic Reviews and Meta Analyses on Collagen
 
 -   [2024 Meta Analysis/Systematic REview looking at a variety of outcome](https://link.springer.com/article/10.1007/s40279-024-02079-0)
 
@@ -126,7 +126,7 @@ Let’s dive into some of these studies individually on the next page…..
 
 -   Overall if there’s a possible benefit to be had from collagen, the strongest evidence is in skin it seems.  But there are still some But I’m not as equipped to evaluate inclusion criteria in these studies, as well as knowing what clinical significance is for a lot of these metrics. I’ll probably consult with a derm friend.
 
-## A look at Individual Studies from the Systematic Reviews Above
+# A Closer Look at Individual Studies
 
 [Whey protein vs leucine matched collagen protein RCT](https://journals.humankinetics.com/view/journals/ijsnem/32/3/article-p133.xml)
 
@@ -186,7 +186,7 @@ Let’s dive into some of these studies individually on the next page…..
 
 # My Final Conclusions on the Topic
 
-Yes, glancing at these other trials, I’ve lost pretty much all faith that any of these can be redeemed. I need them to assess for baseline protein intake and have the placebo total protein matched AT A MINIMUM but I have only encountered like 2-3 that did that, and 2 of them assess MPS only and the lastt one I don’t have access to even with Scihub (also it’s an incredibly small study).  Thus almost none of them are equipped to interpret collagen’s effect on the body, independent of its protein. I think I’m done here, skimming over the characteristics of these trials in the systematic review as well as from searches I don’t think I can find a single one that’s redeemable for these outcomes in a super super robust way. There’s no like star studded trial guiding me here..
+Yes, glancing at these other trials, I’ve lost pretty much all faith that any of these can be redeemed. I need them to assess for baseline protein intake and have the placebo total protein matched AT A MINIMUM but I have only encountered like 2-3 that did that, and 2 of them assess MPS only and the last one I could not get access to (also it’s an incredibly small study).  Thus almost none of them are equipped to interpret collagen’s effect on the body, independent of its protein. I think I’m done here, skimming over the characteristics of these trials in the systematic review as well as from searches I don’t think I can find a single one that’s redeemable for these outcomes in a super super robust way. There’s no like star studded trial guiding me here..
 
 Update: My friend has informed me that there’s actually some decent evidence for isolated glycine (one of the primary amino acid constituents of collagen, along with proline and isoproline) for various endpoints. I’ll let him fetch some evidence on that and that could maybe offer any unique benefits of collagen if they are to be had for far cheaper. We shall see.
 
