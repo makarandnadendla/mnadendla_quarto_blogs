@@ -5,7 +5,6 @@ format: html
 editor: visual
 date: "2024-10-10"
 categories: [news, code, analysis]
-image: "image.jpg"
 ---
 
 # My Foray into the World of Collagen
