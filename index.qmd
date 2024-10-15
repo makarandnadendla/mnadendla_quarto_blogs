@@ -1,5 +1,5 @@
 ---
-title: "Makarand Nadendla: Stats God"
+title: "Biostatistics and Causal Inference"
 listing:
   contents: posts
   sort: "date desc"
