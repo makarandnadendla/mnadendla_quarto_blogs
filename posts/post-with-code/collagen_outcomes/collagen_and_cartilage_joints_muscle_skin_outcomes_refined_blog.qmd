@@ -11,11 +11,11 @@ categories: [news, code, analysis]
 
 I have to admit something.\
 \
-Before doing the research for this article, I wasn't expecting to dive into collagen much. It seemed like just another supplement raved about by random influencers online, which had the thick musk of "just another undertested supplement with little outcome data".\
+Before doing the research for this article, I wasn't expecting to dive into collagen much. It seemed like just another supplement raved about by random influencers online, which had the thick musk of "just another undertested fad with little outcome data".\
 \
-From joint health to skin health and basically everything in between involving a connective tissue, there were lots of claims being made. And like most noise on social media about supplements, I chose to ignore it.
+From joint health to skin health to basically everything in between involving a connective tissue, there were lots of claims being made. And like most noise on social media about supplements, I chose to ignore it.
 
-When a couple of different doctors started recommending I consume it too, I was surprised it had made its way into the doctor's office. So, I challenged them to show me evidence. And though I still felt quite indifferent, it pushed me just enough in the direction of me doing my own searching, since if I was able to give nuanced takes on collagen and share them with those clinicians, it could directly impact other patient care as well for the better.\
+Ultimately, when a couple of different doctors started recommending I consume it too, I was surprised it had made its way into the doctor's office. So, I challenged them to show me evidence. And though I still felt quite indifferent towards the product, it pushed me just enough in the direction of me doing my own searching, since if I was able to give nuanced takes on collagen and share them with those clinicians, it could directly impact other patient care as well for the better.\
 \
 And so the journey began.\
 \
@@ -27,12 +27,12 @@ Going in, I had a few important considerations for any trial evaluating collagen
 
 -   [ ] Either the collagen is a standalone intervention and compared to a placebo that’s isonitrogenic, or have the treatment assignments be something like the following:
 
-| Treatment           | Control         |
-|---------------------|-----------------|
-| Hydrolyzed Collagen | Hyaluronic Acid |
-| Hyaluronic Acid     | Glucosamine     |
-| Glucosamine         | Condroiton      |
-| Condroiton          |                 |
+| Treatment           | Control               |
+|---------------------|-----------------------|
+| Hydrolyzed Collagen | Isonitrogenic Placebo |
+| Hyaluronic Acid     | Hyaluronic Acid       |
+| Glucosamine         | Glucosamine           |
+| Condroiton          | Condroiton            |
 
 Where the only difference between treatment and control is the collagen supplement, but some standard of care treatment is included.
 
@@ -40,26 +40,26 @@ With those ground rules set, I'd like to present my synthesis on collagen's outc
 
 # A look into the Systematic Reviews and Meta Analyses on Collagen
 
--   [2024 Meta Analysis/Systematic REview looking at a variety of outcome](https://link.springer.com/article/10.1007/s40279-024-02079-0)
+[2024 Meta Analysis/Systematic REview looking at a variety of outcome](https://link.springer.com/article/10.1007/s40279-024-02079-0)
 
-    -   “Aims to investigate the effects of long-term daily collagen peptide (CP) supplementation on strength, musculotendinous adaptation, functional recovery, and body composition in healthy adults”
+-   “Aims to investigate the effects of long-term daily collagen peptide (CP) supplementation on strength, musculotendinous adaptation, functional recovery, and body composition in healthy adults”
 
-    -   The meta analysis authors used Standardized Mean Difference as the outcome measure. I maintain that most meta analyses nowadays shouldn’t be using it unless they can give a clear definition of the underlying construct that they’re trying to measure. The definition of the estimand for the meta analyses, is what leads to clear definitions of the construct used for the SMD. it’s a vital part of the process that most meta analyses using SMD don’t seem to do for whatever reason. SMD has almost no proper use case for a meta analysis these days and should only be used by a very very very experienced practitioner
+-   The meta analysis authors used Standardized Mean Difference as the outcome measure. I maintain that most meta analyses nowadays shouldn’t be using it unless they can give a clear definition of the underlying construct that they’re trying to measure. The definition of the estimand for the meta analyses, is what leads to clear definitions of the construct used for the SMD. it’s a vital part of the process that most meta analyses using SMD don’t seem to do for whatever reason. SMD has almost no proper use case for a meta analysis these days and should only be used by a very very very experienced practitioner
 
-    -   Why is the second criteria of the meta analyses inclusion criteria that “they used different forms of DC (dietary collagen)”? If they simply mean using a variety of collagen molecules but in similar proportions and dosages across studies, I have no problem. But I’m not sure based on the wording here.(To be fair, many of the trials stuck to 15g daily DC supplementation). 
+-   Why is the second criteria of the meta analyses inclusion criteria that “they used different forms of DC (dietary collagen)”? If they simply mean using a variety of collagen molecules but in similar proportions and dosages across studies, I have no problem. But I’m not sure based on the wording here.(To be fair, many of the trials stuck to 15g daily DC supplementation). 
 
-    -   If I’m not mistaken, literally only one trial provided a protein matched placebo. Only ONE!!!!! The rest were some combination of maltodextrin, dextrose, or some random white powder that mixes similar to collagen in water.
+-   If I’m not mistaken, literally only one trial provided a protein matched placebo. Only ONE!!!!! The rest were some combination of maltodextrin, dextrose, or some random white powder that mixes similar to collagen in water.
 
-    -   They keep stacking people from the same study multiple times into the same forest plot. Wtf why??? Just make different subgroup analyses! THIS MAKES THE EFFECT MEASURE UNINTERPRETABLE. Not that SMD in this context wasn’t borderline uninterpretable from the start. Case in point:
+-   They keep stacking people from the same study multiple times into the same forest plot. Wtf why??? Just make different subgroup analyses! THIS MAKES THE EFFECT MEASURE UNINTERPRETABLE. Not that SMD in this context wasn’t borderline uninterpretable from the start. Case in point:
 
-        \
-        ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdzu1psHdJ-ZmhUVlGLicmfV0dyoLOZ3GcUv-fS2wLjwPWCseWfOWopPLmcMGYeXZ9VCEfvStArcb-jou0_3SqMgXXrDWzVCiSZNVoD3NYI7g13Qq7884w7C0cL1wsAHm-tdtmxb7ZrGKsYRFlSwy_0QMBY?key=rf44RV7tAsqSBFC_Mo--og)
+    \
+    ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdzu1psHdJ-ZmhUVlGLicmfV0dyoLOZ3GcUv-fS2wLjwPWCseWfOWopPLmcMGYeXZ9VCEfvStArcb-jou0_3SqMgXXrDWzVCiSZNVoD3NYI7g13Qq7884w7C0cL1wsAHm-tdtmxb7ZrGKsYRFlSwy_0QMBY?key=rf44RV7tAsqSBFC_Mo--og)
 
 \- ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXd2IOP3dffygozuhiOkMJUnEpPkcrosPwFuqBfgn6h2TvS33gU4ri8gr-X1PIJCeehJU9nZJlJXNyc2vN3QOfFZI9o05mzeRY4wtRwG_7k652o64fu3DalIE01pXokm8a60tQjjfQleUeerMHqTv9E0xd7j?key=rf44RV7tAsqSBFC_Mo--og)
 
 **The literal definition of what not to do in a forest plot, right there. This entire paper is just best ignored at this point.**
 
-For fun, I tried to see if I can even replicate the above forest plot with the details they gave, but I decided it was too much effort when even the n they reported for the Oertzen study in the forest plot (91) didn't match with the actual n reported:
+For fun, I tried to see if I can even replicate the above forest plot with the details they gave, but I decided it was too much effort when even the n they reported for the Oertzen study in the forest plot (91) didn't match with the actual n reported.
 
 ```{r echo=FALSE}
 #library(tidyverse)
@@ -120,7 +120,7 @@ Let’s dive into some of these studies individually on the next page…..
 
 -   ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfeRmLAtTSFkBLwKvx6h4KRhq-A7fcIrbZVgdUAnuo30VWvjrxw-l_PpWjGd5cNKKM_Y_dpAryblqRCqb8p1Iyyzz2g7MGyCHgGj9hyTO0L5MCM9HVzCzYZW2_56hYQMwMW0U6ZOknlv5rfDKWiG6xpSu9B?key=rf44RV7tAsqSBFC_Mo--og)
 
-    -   So many heterogenous interventions with respect to dose and type of collagen. 
+    -   So many heterogeneous interventions with respect to dose and type of collagen. 
 
 -   This is also an example from one of the trials:
 
@@ -132,11 +132,11 @@ Let’s dive into some of these studies individually on the next page…..
 
 -   ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdyFmXWfhmGFlorebqGTewi6J7i9SHM65BONOMonsZl5PQ0R5x0c5ZrFKTr-vVZAB4iH1VnY2S16UO8ogaU0YG5wZyc-iZzU9BHaX7M6vX0edOTE3mnE8unDB8-57VNJUD2fTrRJ-Ke0mVOwoRS986JKR4?key=rf44RV7tAsqSBFC_Mo--og)
 
-    -   Another example [of a trial](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8176521/) from this meta that didn’t use a protein controlled placebo or assessed protein intake at baseline. Which is sad because this trial did a better job of explaining their randomization protocols and power analysis better than most!! (only thing missing was explaining their minimum effect size clearly)
+    -   This meta keeps continuing tradition [of a trial](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8176521/) from this meta that didn’t use a protein controlled placebo or assessed protein intake at baseline. Which is sad because this trial did a better job of explaining their randomization protocols and power analysis better than most!! (only thing missing was explaining their minimum effect size clearly)
 
 -   They did do subgroup analyses for the source of the collagen (what animal) and for supplementation length and different outcomes….but it’s hard to make super robust conclusions here. Especially given their lack of accounting for protein intake and placebo protein control. But if you had to make me flip a coin, I might lean slightly in favor of collagen being beneficial for skin aging markers. But barely so.
 
-Overall if there’s a possible benefit to be had from collagen, the strongest evidence is in skin it seems. But there are still some But I’m not as equipped to evaluate inclusion criteria in these studies, as well as knowing what clinical significance is for a lot of these metrics. I’ll do best consulting a researcher that is more familiar with skin.
+Overall if there’s a possible benefit to be had from collagen, the strongest evidence is in skin it seems. But there are still some fundamental issues with this meta that I've highlighted above that greatly diminish my confidence in the results for skin. I think it's responsible for me to admit that I'm not as equipped to evaluate inclusion criteria in these studies, as well as knowing what clinical significance is for a lot of these metrics. I’ll do best consulting a researcher that is more familiar with skin, and update this section.
 
 # A Closer Look at Individual Studies
 
@@ -161,7 +161,7 @@ Overall if there’s a possible benefit to be had from collagen, the strongest e
 
 -   No assessment of baseline protein intake, AGAIN. It’s like they’re all trying to prove me right with how incompetent they are. 
 
--   Same bullshit that didn't assess collagen by itself but with Hyaluronic Acid and chondroitin in conjunction compared to a placebo with nothing in it (not protein matched)
+-   Same bullshit that didn't assess collagen by itself but with Hyaluronic Acid and Chondroitin in conjunction compared to a placebo with nothing in it (not protein matched)
 
 -   Let’s move on this trial is a waste of my time and headspace already there’s nothing of value here
 
@@ -187,7 +187,7 @@ Overall if there’s a possible benefit to be had from collagen, the strongest e
 
 [Another Chinese study looking at collagen hydrosalate](https://www.researchgate.net/profile/Janne-Prawitt/publication/285117930_Collagen_peptides_improve_knee_osteoarthritis_in_elderly_women_A_6-month_randomized_double-blind_placebo-controlled_study/links/57cd329d08ae3ac722b49e0c/Collagen-peptides-improve-knee-osteoarthritis-in-elderly-women-A-6-month-randomized-double-blind-placebo-controlled-study.pdf?origin=publication_detail&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uRG93bmxvYWQiLCJwcmV2aW91c1BhZ2UiOiJwdWJsaWNhdGlvbiJ9fQ)
 
--   Power Anaylsis consists of this sentence:\
+-   Power Analysis consists of this sentence:\
     "This effect size assures, at a significance level of a=0.05, a power of 90% for WOMAC score, and of more than 80% for Lysholm score". Without sharing what “this effect size” meant. 
 
     -   Who’s the genius that came up with this masterful power analysis????? (I hope the sarcasm is dripping through) 
@@ -198,12 +198,12 @@ Overall if there’s a possible benefit to be had from collagen, the strongest e
 
 # My Final Conclusions on the Topic
 
-Yes, glancing at these other trials, I’ve lost pretty much all faith that any of these can be redeemed. I need them to assess for baseline protein intake and have the placebo total protein matched AT A MINIMUM but I have only encountered like 2-3 that did that, and 2 of them assess MPS only and the last one I could not get access to (also it’s an incredibly small study).  Thus almost none of them are equipped to interpret collagen’s effect on the body, independent of its protein. I think I’m done here, skimming over the characteristics of these trials in the systematic review as well as from searches I don’t think I can find a single one that’s redeemable for these outcomes in a super super robust way. There’s no like star studded trial guiding me here..
+Yes, glancing at these other trials, I’ve lost pretty much all faith that most, if any, of these can be redeemed. I need them to assess for baseline protein intake and have the placebo total protein matched AT A MINIMUM but I have only encountered like 2-3 that did that, and 2 of them assess MPS only (lol) and the last one I could not get access to (also it’s an incredibly small study).  Thus almost none of them are equipped to interpret collagen’s effect on the body, independent of its protein content. I think I’m done here, skimming over the characteristics of these trials in the systematic review as well as from searches I don’t think I can find a single one that’s redeemable.
 
 Update: My friend has informed me that there’s actually some decent evidence for isolated glycine (one of the primary amino acid constituents of collagen, along with proline and isoproline) for various endpoints. I’ll let him fetch some evidence on that and that could maybe offer any unique benefits of collagen if they are to be had for far cheaper. We shall see.
 
-At present, it’s not clear collagen is good for much beyond the protein content (except for maybe skin aging if you’re a older woman with skin aging?), and I’d just recommend getting enough protein (daily 1.2 g protein/kg lean body mass, if being conservative up to 1.6g/kg daily for older adults). Getting the total protein intake to at least 1g/kg lean mass is broadly important for overall health.\
+Given tihs, at present, it’s not clear collagen is good for much beyond the protein content (except for maybe skin aging if you’re a older woman with skin aging?), and I’d just recommend getting enough protein (daily 1.2 g protein/kg lean body mass, if being conservative up to 1.6g/kg daily for older adults). Getting the total protein intake to at least 1g/kg lean mass is pretty broadly important for overall health.\
 \
-If you find 1.2g/kg hard, protein supplements are an excellent way to get up to that number, and using plain soy protein isolate for example is much more versatile than people think. Protein rich legumes like soy and lupini beans are great. Soy itself is very versatile as high protein options like tofu, tempeh, and TVP exist. Seitan is a real showstopper as well, since the protein to calorie ratio is off the charts and it is usually quite cheap to buy and store in bulk. There are lots of creative ways to up protein intake, and really going from 0.6 g/kg protein to 1g/kg protein goes such a long way. Don't stress out over going above and beyond in protein intake, if it's causing stress and is leading to a less palatable diet. You've done most of the work by getting to 1g protein/kg lean mass.\
+If you find 1.2g/kg hard, protein supplements are an excellent way to get up to that number, and using plain soy protein isolate for example is much more versatile than people think. Protein rich legumes like soy and lupini beans are great. Soy itself is very versatile as high protein options like tofu, tempeh, and TVP exist. Seitan is a real showstopper as well, since the protein to calorie ratio is off the charts and it is usually quite cheap to buy and store in bulk. There are lots of creative ways to up protein intake, and really going from 0.6 g/kg protein to 1g/kg protein goes such a long way. Don't stress out over going above and beyond in protein intake if it's causing stress and is leading to a less palatable diet. You've done most of the work by getting to 1g protein/kg lean mass.\
 \
 I do think it is unfortunate that we have to worry about getting this much protein in the first place. It is a stroke of bad luck, and if humans needed like half the protein intake to capitalize on muscle, bone, skin and joint health, our collective lives would be so much easier. But, alas the overall outcome data on protein paints a different picture than I would like, and I plan to be honest with everyone else.
