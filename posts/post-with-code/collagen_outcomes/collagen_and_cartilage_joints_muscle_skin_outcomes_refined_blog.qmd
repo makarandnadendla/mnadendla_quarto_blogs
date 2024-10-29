@@ -40,7 +40,7 @@ With those ground rules set, I'd like to present my synthesis on collagen's outc
 
 # A look into the Systematic Reviews and Meta Analyses on Collagen
 
-[2024 Meta Analysis/Systematic REview looking at a variety of outcome](https://link.springer.com/article/10.1007/s40279-024-02079-0)
+[2024 Meta Analysis/Systematic Review looking at a variety of outcome](https://link.springer.com/article/10.1007/s40279-024-02079-0)
 
 -   “Aims to investigate the effects of long-term daily collagen peptide (CP) supplementation on strength, musculotendinous adaptation, functional recovery, and body composition in healthy adults”.
 
@@ -57,9 +57,9 @@ With those ground rules set, I'd like to present my synthesis on collagen's outc
 -   They keep stacking people from the same study multiple times into the same forest plot. Wtf why??? Just make different subgroup analyses! THIS MAKES THE EFFECT MEASURE UNINTERPRETABLE. Not that SMD in this context wasn’t borderline uninterpretable from the start. Case in point:
 
     \
-    ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdzu1psHdJ-ZmhUVlGLicmfV0dyoLOZ3GcUv-fS2wLjwPWCseWfOWopPLmcMGYeXZ9VCEfvStArcb-jou0_3SqMgXXrDWzVCiSZNVoD3NYI7g13Qq7884w7C0cL1wsAHm-tdtmxb7ZrGKsYRFlSwy_0QMBY?key=rf44RV7tAsqSBFC_Mo--og)
+    ![](images/muscle_meta_analysis_1)
 
-\- ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXd2IOP3dffygozuhiOkMJUnEpPkcrosPwFuqBfgn6h2TvS33gU4ri8gr-X1PIJCeehJU9nZJlJXNyc2vN3QOfFZI9o05mzeRY4wtRwG_7k652o64fu3DalIE01pXokm8a60tQjjfQleUeerMHqTv9E0xd7j?key=rf44RV7tAsqSBFC_Mo--og)
+\- ![](images/muscle_meta_analysis_2)
 
 **The literal definition of what not to do in a forest plot, right there. This entire paper is just best ignored at this point.**
 
@@ -79,8 +79,7 @@ We do happen to have a couple of Systematic Reviews on the topic of supplementar
 
 [Role of Collagen Derivatives in Osteoarthritis and Cartilage Repair: A Systematic Scoping Review With Evidence Mapping](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7695755/)
 
--   41 published studies were ultimately included in the review, 16 ofwhich were preclinical studies and 25 were clinical studies (including
-    four systematic reviews/meta-analyses)
+-   41 published studies were ultimately included in the review, 16 ofwhich were preclinical studies and 25 were clinical studies (including four systematic reviews/meta-analyses)
 
 -   Oh dear god, these didn't list baseline protein intakes of people in the study in the review (making me have to go through each trial to find if they did) 
 
@@ -118,19 +117,19 @@ We do happen to have a couple of Systematic Reviews on the topic of supplementar
 
 -   On the forest plot’s face value, it seems collagen is pretty consistently positively associated with most skin aging metrics here. That said when the metric is SMD it’s hard to interpret what the outcome even means. It gets worse….
 
--   ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfeRmLAtTSFkBLwKvx6h4KRhq-A7fcIrbZVgdUAnuo30VWvjrxw-l_PpWjGd5cNKKM_Y_dpAryblqRCqb8p1Iyyzz2g7MGyCHgGj9hyTO0L5MCM9HVzCzYZW2_56hYQMwMW0U6ZOknlv5rfDKWiG6xpSu9B?key=rf44RV7tAsqSBFC_Mo--og)
+-   ![](images/collagen_skin_meta_study_chars)
 
     -   So many heterogeneous interventions with respect to dose and type of collagen. This further estranges how the SMD could be interpreted, and is a red flag.
 
 -   This is also an example from one of the trials:
 
--   ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeAydvDeqAQTQISHrAszmbbgUyFQgFVhLzI4HmxPiL6IwPT4obbHimf-siUE8ZJQB2498AJK_drpcjuvv-TiwVp-BxZlFO8SQ70HiqJ28p1YsBsV72OXnJwu-_1l8zN4nTqfDKMshcNDpaLvoae28l4TdA2?key=rf44RV7tAsqSBFC_Mo--og)
+-   ![](images/skin_meta_study_intervention_contents_example)
 
     -   On top of the standard criticism of not matching for protein in the placebo nor having any evaluation of baseline dietary protein intake…….The intervention isn’t even just collagen ALONE but a host of different things. How can we know the unique total protein independent content effect of collagen when you have all these other things?
 
--   Yet another [study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8707759/) from this meta that didn’t protein match in the placebo nor give baseline protein intakes. They also didn’t use ANCOVA, or change scores even to analyze. Plus significance testing variables at baseline…..noobs ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfRod5Jk9p4b2IQFeGogaygJ8lKIvMtmh47dkF_rf1-XmpZOaMsp9Co-7tjIFa5neXK17OgIGR_eHl9fPqJWn2FUGSBLODcC7DFfOvJKJxgZ8T8OGVVgbBIc9POfbKuEAtsYBPzrRnpCkxR9BtQfaVNxgw?key=rf44RV7tAsqSBFC_Mo--og)
+-   Yet another [study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8707759/) from this meta that didn’t protein match in the placebo nor give baseline protein intakes. They also didn’t use ANCOVA, or change scores even to analyze. Plus significance testing variables at baseline…..noobs ![](images/skin_meta_study_materials_methods)
 
--   ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdyFmXWfhmGFlorebqGTewi6J7i9SHM65BONOMonsZl5PQ0R5x0c5ZrFKTr-vVZAB4iH1VnY2S16UO8ogaU0YG5wZyc-iZzU9BHaX7M6vX0edOTE3mnE8unDB8-57VNJUD2fTrRJ-Ke0mVOwoRS986JKR4?key=rf44RV7tAsqSBFC_Mo--og)
+-   ![](images/skin_meta_study_materials_methods_part_2)
 
     -   This meta keeps continuing tradition from the other top level reviews with the inclusion [of a trial](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8176521/) that didn’t use a protein controlled placebo or assessed protein intake at baseline. Which is sad because this trial did a better job of explaining their randomization protocols and power analysis better than most!! (only thing missing was explaining their minimum effect size clearly)
 
