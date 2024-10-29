@@ -56,10 +56,9 @@ With those ground rules set, I'd like to present my synthesis on collagen's outc
 
 -   They keep stacking people from the same study multiple times into the same forest plot. Wtf why??? Just make different subgroup analyses! THIS MAKES THE EFFECT MEASURE UNINTERPRETABLE. Not that SMD in this context wasn’t borderline uninterpretable from the start. Case in point:
 
-    \
-    ![](images/muscle_meta_analysis_1)
+\- ![](images/muscle_meta_analysis_1.png)
 
-\- ![](images/muscle_meta_analysis_2)
+\- ![](images/muscle_meta_analysis_2.png)
 
 **The literal definition of what not to do in a forest plot, right there. This entire paper is just best ignored at this point.**
 
@@ -117,19 +116,19 @@ We do happen to have a couple of Systematic Reviews on the topic of supplementar
 
 -   On the forest plot’s face value, it seems collagen is pretty consistently positively associated with most skin aging metrics here. That said when the metric is SMD it’s hard to interpret what the outcome even means. It gets worse….
 
--   ![](images/collagen_skin_meta_study_chars)
+-   ![](images/collagen_skin_meta_study_chars.png)
 
     -   So many heterogeneous interventions with respect to dose and type of collagen. This further estranges how the SMD could be interpreted, and is a red flag.
 
 -   This is also an example from one of the trials:
 
--   ![](images/skin_meta_study_intervention_contents_example)
+-   ![](images/skin_meta_study_intervention_contents_example.png)
 
     -   On top of the standard criticism of not matching for protein in the placebo nor having any evaluation of baseline dietary protein intake…….The intervention isn’t even just collagen ALONE but a host of different things. How can we know the unique total protein independent content effect of collagen when you have all these other things?
 
--   Yet another [study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8707759/) from this meta that didn’t protein match in the placebo nor give baseline protein intakes. They also didn’t use ANCOVA, or change scores even to analyze. Plus significance testing variables at baseline…..noobs ![](images/skin_meta_study_materials_methods)
+-   Yet another [study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8707759/) from this meta that didn’t protein match in the placebo nor give baseline protein intakes. They also didn’t use ANCOVA, or change scores even to analyze. Plus significance testing variables at baseline…..noobs ![](images/skin_meta_study_materials_methods.png)
 
--   ![](images/skin_meta_study_materials_methods_part_2)
+-   ![](images/skin_meta_study_materials_methods_part_2.png)
 
     -   This meta keeps continuing tradition from the other top level reviews with the inclusion [of a trial](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8176521/) that didn’t use a protein controlled placebo or assessed protein intake at baseline. Which is sad because this trial did a better job of explaining their randomization protocols and power analysis better than most!! (only thing missing was explaining their minimum effect size clearly)
 
