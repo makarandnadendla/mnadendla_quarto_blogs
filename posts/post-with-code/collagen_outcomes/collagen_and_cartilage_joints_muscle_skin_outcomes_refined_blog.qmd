@@ -11,11 +11,11 @@ categories: [news, code, analysis]
 
 I have to admit something.\
 \
-Before doing the research for this article, I wasn't expecting to dive into collagen much. It seemed like just another supplement touted by random influencers online for everything from joint health to skin health to basically everything in between involving a connective tissue. \
+Before doing the research for this article, I wasn't expecting to dive into collagen much. It seemed like just another supplement touted by random influencers online for everything from joint health to skin health to basically everything in between involving a connective tissue.\
 \
 Like most noise on social media about random supplements, I chose to ignore it.
 
-This changed though when a couple of different doctors I knew started recommending I consume it too. I was surprised it had made its way into their clinical recommendations. \
+This changed though when a couple of different doctors I knew started recommending I consume it too. I was surprised it had made its way into their clinical recommendations.\
 \
 Though I still felt quite indifferent towards the product, it pushed me just enough in the direction of me doing my own searching, for nothing more than not having to think about collagen again.\
 \
@@ -182,6 +182,8 @@ Overall if there’s a possible benefit to be had from collagen, the strongest e
 -   If this is the best study I've found I don't have much faith in humanity anymore
 
 -   Is the following difference for VAS even clinically significant? Look how attenuated the difference is with the higher meat group
+
+![](images/meat_intake_dichot_study_outcomes.png)
 
 [Another Chinese study looking at collagen hydrosalate](https://www.researchgate.net/profile/Janne-Prawitt/publication/285117930_Collagen_peptides_improve_knee_osteoarthritis_in_elderly_women_A_6-month_randomized_double-blind_placebo-controlled_study/links/57cd329d08ae3ac722b49e0c/Collagen-peptides-improve-knee-osteoarthritis-in-elderly-women-A-6-month-randomized-double-blind-placebo-controlled-study.pdf?origin=publication_detail&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uRG93bmxvYWQiLCJwcmV2aW91c1BhZ2UiOiJwdWJsaWNhdGlvbiJ9fQ)
 
